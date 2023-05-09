@@ -35,6 +35,7 @@ body{
 .banner{
 	background-image:url("./images/banner.png");
 	background-repeat:no-repeat;
+	width:100%;
 	height:300px;
 
 }
